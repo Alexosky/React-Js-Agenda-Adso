@@ -1,4 +1,9 @@
-export default function App() { const fecha = new Date().toLocaleString();  return ( <main> <h1>Hola SENA</h1> </main> )}
+export default function App() { const fecha = new Date().toLocaleString();  return ( <main> 
+  
+
+  <h2>Hola, nuestro grupo de estudio se llama Cyber Gaming, Somos aprendices adso.</h2> 
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit Enim iusto maiores eligendi aut, quaerat provident magni! Recusandae ducimus optio perferendis consectetur voluptatibus, earum dolores delectus est distinctio iste, laboriosam expedita!
+  </p></main> )}
 
 
 
